@@ -1,0 +1,143 @@
+{
+  "locations": [
+    {
+      "lat": 13.8639,
+      "lng": 74.8588,
+      "label": "",
+      "slides": ["images/asif/1.jpg", "images/asif/1.jpg"]
+    },
+    {
+      "lat": 9.6183,
+      "lng": 76.5103,
+      "label": "",
+      "slides": ["images/diagon/1.JPG", "images/diagon/1.JPG"]
+    },
+    {
+      "lat": 10.0308,
+      "lng": 76.304,
+      "label": "",
+      "slides": ["images/cuckoo/1.jpg", "images/cuckoo/1.jpg"]
+    },
+    {
+      "lat": 17.3002,
+      "lng": 78.3669,
+      "label": "",
+      "slides": [
+        "images/farm/farm.jpeg",
+        "images/farm/1.jpeg",
+        "images/farm/2.jpeg",
+        "images/farm/3.jpeg",
+        "images/farm/4.jpeg",
+        "images/farm/5.jpeg"
+      ]
+    },
+    {
+      "lat": 17.4115,
+      "lng": 78.4073,
+      "label": "",
+      "slides": ["images/ascend/1.jpg", "images/ascend/1.jpg"]
+    },
+    {
+      "lat": 13.0746,
+      "lng": 80.2419,
+      "label": "",
+      "slides": ["images/tabula/1.jpg", "images/tabula/2.jpg"]
+    },
+    {
+      "lat": 8.5271,
+      "lng": 76.9835,
+      "label": "",
+      "slides": ["images/hello/1.jpg", "images/hello/1.jpg"]
+    },
+    {
+      "lat": 17.4487,
+      "lng": 78.3867,
+      "label": "",
+      "slides": ["images/himmel/himmel.png", "images/himmel/himmel.png"]
+    },
+    {
+      "lat": 10.0002,
+      "lng": 76.2983,
+      "label": "",
+      "slides": [
+        "images/IC4/1.gif",
+        "images/IC4/2.gif",
+        "images/IC4/3.gif",
+        "images/IC4/4.gif",
+        "images/IC4/5.gif"
+      ]
+    },
+    {
+      "lat": 9.5421,
+      "lng": 76.352,
+      "label": "",
+      "slides": ["images/johns/1.png", "images/johns/2.png"]
+    },
+    {
+      "lat": 9.9243,
+      "lng": 76.3122,
+      "label": "",
+      "slides": [
+        "images/kitchen/1.gif",
+        "images/kitchen/2.gif",
+        "images/kitchen/3.gif",
+        "images/kitchen/4.gif",
+        "images/kitchen/5.gif",
+        "images/kitchen/6.gif"
+      ]
+    },
+    {
+      "lat": 10.2718,
+      "lng": 76.3942,
+      "label": "",
+      "slides": ["images/escape/1.jpg", "images/escape/ss.jpg"]
+    },
+    {
+      "lat": 9.9337,
+      "lng": 76.3142,
+      "label": "",
+      "slides": [
+        "images/lemer/1.jpg",
+        "images/lemer/2.jpg",
+        "images/lemer/3.jpg",
+        "images/lemer/4.jpg"
+      ]
+    },
+    {
+      "lat": 10.0133,
+      "lng": 76.3925,
+      "label": "",
+      "slides": ["images/peekbox/1.jpg", "images/peekbox/1.jpg"]
+    },
+    {
+      "lat": 13.1311,
+      "lng": 78.0261,
+      "label": "",
+      "slides": ["images/torinos/1.jpg", "images/torinos/1.jpg"]
+    },
+    {
+      "lat": 9.9861,
+      "lng": 76.4141,
+      "label": "",
+      "slides": ["images/puthen/1.jpg", "images/puthen/1.jpg"]
+    },
+    {
+      "lat": -6.5988,
+      "lng": 110.6607,
+      "label": "",
+      "slides": ["images/wood/1.JPEG", "images/wood/1.JPEG"]
+    },
+    {
+      "lat": 9.7659,
+      "lng": 76.3923,
+      "label": "",
+      "slides": ["images/neoilam/1.jpg", "images/neoilam/ss.jpg"]
+    },
+    {
+      "lat": 12.9455,
+      "lng": 77.5922,
+      "label": "",
+      "slides": ["images/bbmp/1.jpg", "images/bbmp/2.jpg"]
+    }
+  ]
+}

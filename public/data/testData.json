@@ -1,0 +1,295 @@
+[
+  {
+    "icon": "images/tabula/1.jpg",
+    "thumbnail": "images/tabula/3.jpg",
+    "code": "tabula",
+    "slides": [
+      "images/tabula/1.jpg",
+      "images/tabula/2.jpg",
+      "images/tabula/ss.jpg"
+    ],
+    "chronology": 2021,
+    "program": "design",
+    "status": "in progress",
+    "location": ""
+  },
+  {
+    "icon": "images/walden/1.jpg",
+    "thumbnail": "images/walden/2.jpg",
+    "code": "walden",
+    "slides": [
+      "images/walden/1.jpg",
+      "images/walden/2.jpg",
+      "images/walden/3.jpg",
+      "images/walden/4.jpg",
+      "images/walden/5.jpg",
+      "images/walden/6.jpg",
+      "images/walden/7.jpg"
+    ],
+    "chronology": 2021,
+    "program": "housing",
+    "status": "completed",
+    "location": ""
+  },
+  {
+    "icon": "images/himmel/2.jpg",
+    "thumbnail": "images/himmel/1.jpg",
+    "code": "himmel",
+    "slides": [
+      "images/himmel/2.jpg",
+      "images/himmel/3.jpg",
+      "images/himmel/ss.jpg"
+    ],
+    "chronology": 2019,
+    "program": "culture",
+    "status": "idea",
+    "location": ""
+  },
+  {
+    "icon": "images/torinos/1.jpg",
+    "thumbnail": "images/torinos/2.jpg",
+    "code": "torinos",
+    "slides": [
+      "images/torinos/1.jpg",
+      "images/torinos/ss.jpg"
+    ],
+    "chronology": 2019,
+    "program": "culture",
+    "status": "idea",
+    "location": ""
+  },
+  {
+    "icon": "images/asif/1.jpg",
+    "thumbnail": "images/asif/2.jpg",
+    "code": "FLOAT",
+    "slides": [
+      "images/asif/1.jpg",
+      "images/asif/ss.jpg"
+    ],
+    "chronology": 2019,
+    "program": "housing",
+    "status": "idea",
+
+    "location": ""
+  },
+  {
+    "icon": "images/wood/1.jpg",
+    "thumbnail": "images/wood/2.jpg",
+    "code": "wood",
+    "slides": [
+      "images/wood/1.jpg",
+      "images/wood/3.JPEG",
+      "images/wood/4.jpg",
+      "images/wood/5.jpg",
+      "images/wood/6.jpg",
+      "images/wood/7.jpg",
+      "images/wood/8.jpg",
+      "images/wood/9.jpg",
+      "images/wood/10.jpg"
+    ],
+    "chronology": 2019,
+    "program": "design",
+    "status": "completed",
+    "location": ""
+  },
+  {
+    "icon": "images/diagon/1.JPG",
+    "thumbnail": "images/diagon/2.jpg",
+    "code": "diagon",
+    "slides": [
+      "images/diagon/1.JPG",
+      "images/diagon/ss.jpg"
+    ],
+    "chronology": 2019,
+    "program": "housing",
+    "status": "idea",
+    "location": ""
+  },
+  {
+    "icon": "images/farm/farm.jpeg",
+    "thumbnail": "images/farm/6.jpg",
+    "code": "farm",
+    "slides": [
+      "images/farm/1.jpeg",
+      "images/farm/2.jpeg",
+      "images/farm/3.jpeg",
+      "images/farm/4.jpeg",
+      "images/farm/5.jpeg",
+      "images/farm/farm.jpeg"
+    ],
+    "chronology": 2019,
+    "program": "culture",
+    "status": "idea",
+    "location": ""
+  },
+  {
+    "icon": "images/IC4/7.jpg",
+    "thumbnail": "images/IC4/1.jpg",
+    "code": "IC4",
+    "slides": [
+      "images/IC4/1.gif",
+      "images/IC4/2.gif",
+      "images/IC4/3.gif",
+      "images/IC4/4.gif",
+      "https://www.youtube.com/embed/pF5vN87tUEo"
+    ],
+
+    "chronology": 2020,
+    "program": "urbanism",
+    "status": "completed",
+    "location": ""
+  },
+  {
+    "icon": "images/peekbox/6.jpg",
+    "thumbnail": "images/peekbox/2.jpg",
+    "code": "peekbox",
+    "slides": [
+      "images/peekbox/1.jpg",
+      "images/peekbox/3.jpg",
+      "images/peekbox/4.jpg",
+      "images/peekbox/5.jpg",
+      "images/peekbox/6.jpg",
+      "https://www.youtube.com/embed/F_ZW7FrQ3dw"
+    ],
+    "chronology": 2020,
+    "program": "housing",
+    "status": "completed",
+    "location": ""
+  },
+  {
+    "icon": "images/kitchen/1.gif",
+    "thumbnail": "images/kitchen/1.jpg",
+    "code": "kitchen",
+    "slides": [
+      "images/kitchen/1.gif",
+      "images/kitchen/2.gif",
+      "images/kitchen/3.gif",
+      "images/kitchen/4.gif",
+      "images/kitchen/5.gif",
+      "https://www.youtube.com/embed/POIvAuB8Mb4"
+    ],
+    "chronology": 2020,
+    "program": "commercial",
+    "status": "completed",
+    "location": ""
+  },
+  {
+    "icon": "images/johns/1.png",
+    "thumbnail": "images/johns/3.jpg",
+    "code": "johns",
+    "slides": [
+      "images/johns/1.png",
+      "images/johns/ss.jpg"
+    ],
+    "chronology": 2021,
+    "program": "culture",
+    "status": "idea",
+    "location": ""
+  },
+
+  {
+    "icon": "images/escape/1.jpg",
+    "thumbnail": "images/escape/2.jpg",
+    "code": "escape",
+    "slides": [
+      "images/escape/1.jpg",
+      "images/escape/ss.jpg"
+    ],
+    "chronology": 2022,
+    "program": "housing",
+    "status": "under construction",
+    "location": ""
+  },
+  {
+    "icon": "images/lemer/1.jpg",
+    "thumbnail": "images/lemer/5.jpg",
+    "code": "lemer",
+    "slides": [
+      "images/lemer/1.jpg",
+      "images/lemer/2.jpg",
+      "images/lemer/3.jpg",
+      "images/lemer/4.jpg",
+      "images/lemer/ss.jpg"
+    ],
+    "chronology": 2020,
+    "program": "public space",
+    "status": "idea",
+    "location": ""
+  },
+  {
+    "icon": "images/cuckoo/1.jpg",
+    "thumbnail": "images/cuckoo/2.jpg",
+    "code": "cuckoo",
+    "slides": [
+      "images/cuckoo/1.jpg",
+      "images/cuckoo/ss.jpg"
+    ],
+    "chronology": 2022,
+    "program": "housing",
+    "status": "under construction",
+    "location": ""
+  },
+
+  {
+    "icon": "images/puthen/1.jpg",
+    "thumbnail": "images/puthen/2.jpg",
+    "code": "puthen",
+    "slides": [
+      "images/puthen/1.jpg",
+      "images/puthen/3.jpg",
+      "images/puthen/4.jpg",
+      "images/puthen/5.jpg",
+      "images/puthen/6.jpg",
+      "images/puthen/7.jpg",
+      "images/puthen/8.jpg",
+      "images/puthen/9.jpg",
+      "images/puthen/10.jpg",
+      "https://www.youtube.com/embed/dwa0gXpaxGo"
+    ],
+    "chronology": 2021,
+    "program": "housing",
+    "status": "completed",
+    "location": ""
+  },
+
+  {
+    "icon": "images/ascend/1.jpg",
+    "thumbnail": "images/ascend/2.jpg",
+    "code": "ascend",
+    "slides": [
+      "images/ascend/1.jpg",
+      "images/ascend/ss.jpg"
+    ],
+    "chronology": 2022,
+    "program": "housing",
+    "status": "under construction",
+    "location": ""
+  },
+  {
+    "icon": "images/neoilam/1.jpg",
+    "thumbnail": "images/neoilam/2.jpg",
+    "code": "neoilam",
+    "slides": [
+      "images/neoilam/1.jpg",
+      "images/neoilam/ss.jpg"
+    ],
+    "chronology": 2021,
+    "program": "housing",
+    "status": "under construction",
+    "location": ""
+  },
+  {
+    "icon": "images/bbmp/1.jpg",
+    "thumbnail": "images/bbmp/bbmpcc.jpg",
+    "code": "BBMP CC",
+    "slides": [
+      "images/bbmp/2.jpg",
+      "images/bbmp/3.jpg",
+      "images/bbmp/ss.jpg"
+    ],
+    "chronology": 2022,
+    "program": "urbanism",
+    "status": "under construction",
+    "location": ""
+  }
+]
